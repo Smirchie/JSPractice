@@ -11,7 +11,7 @@ function convertArrToObj(arr) {
 const arr = ['a', 'b', 'c', 'd'];
 const obj = convertArrToObj(arr);
 console.log(obj);
-/*Вывод:
+/* Вывод:
   0: 'a',
   1: 'b',
   2: 'c',
